@@ -1,0 +1,85 @@
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    color: #2f2f2f;
+    background-color: #d6d6d6; 
+}
+
+.inner-wrapper {
+    max-width: 980px;
+    margin: 0 auto; 
+}
+
+#page-logo {
+    height: 30px; 
+}
+
+header {
+   
+    border-bottom: 2px solid #ffbb00;
+    background-color: #ffffff; 
+    margin-bottom: 20px; 
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px; 
+    height: 60px;
+    background-color: #5a5a5a;
+    color: #ffffff; 
+    text-align:center;
+  }
+
+header a.nav-link{
+    text-transform: uppercase;
+}
+
+
+
+section.sport, section.politika {
+    margin: 16px 0;
+    background-color: #ffffff; 
+    box-shadow: 0 0 2px 0 rgba(0,0,0,0.17);
+}
+
+.section-heading {
+    height: 56px;
+    background-color: #ffbb00; 
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+
+h2.section-title {
+    padding-left: 20px; 
+    font-size: 1.75rem; 
+}
+
+h2.section-title .heading-link {
+    color: #ffffff; 
+}
+
+ul.articles {
+    list-style: none;
+    padding: 0; 
+}
+
+ul.articles li {
+    padding: 16px; 
+    border-bottom: 1px solid #d6d6d6; 
+}
+
+.article-image img {
+    width: 100%; 
+}
+
+
+
+
+footer {
+    height: 56px;
+    background-color: #5a5a5a;
+    color: #ffffff; 
+}
+
